@@ -2,13 +2,13 @@
 
 Welcome to my coding playground where I turn coffee into code and dreams into reality! 🚀
 
-![Coding Image](https://example.com/coding.png)
+![Coding Image](![Header](./your-header-image-name.png))
 
 ### About Me:
 
-🌟 I'm a software wizard with a passion for crafting elegant solutions to complex problems.
+🌟 I'm a software enthusiast with a passion for crafting elegant solutions to complex problems.
 
-🔭 Currently, I'm on a mission to build the next big thing in [Web Development / Data Science / Artificial Intelligence / etc.], and I'd love for you to join me on this epic journey!
+🔭 Currently, I'm on a mission to learn and sharpen my coding skills and i started by attending Co-grammar data science skills bootcamp. 
 
 ### What's on My Radar:
 
@@ -18,14 +18,14 @@ Welcome to my coding playground where I turn coffee into code and dreams into re
 
 ### Let's Connect:
 
-📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/abdullahalmehdhar/) and let's chat about all things tech.
+📫 Drop me a message on [LinkedIn](https://www.linkedin.com/in/abdullah-al-mehdhar-947810169/) and let's chat about all things tech.
 
-💬 Want to know the secrets of the universe or just discuss the latest episode of your favorite show? Hit me up on [Twitter](https://twitter.com/your_username)!
 
-⚡ Fun Fact: When I'm not busy coding, you can find me exploring the great outdoors or capturing moments through my camera lens. 
+⚡ Fun Fact: When I'm not busy coding, you can find me exploring the great outdoors or hitting the gym for a workout session. I believe in maintaining a healthy balance between mind and body, and nothing beats the thrill of a challenging hike or a satisfying workout!
+
 
 ### Get in Touch:
 
-![Email](https://example.com/email.png)
+![Email](mailto:a-almehdar1@hotmail.com)
 
 Feel free to dive into my repositories and discover the wonders I've created. Don't hesitate to reach out if you have any questions, ideas, or just want to say hi. Let's create something amazing together! 💡
